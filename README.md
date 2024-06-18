@@ -113,8 +113,8 @@ The server should be running on `http://localhost:8000`.
 - **Response**:
     ```json
     {
-    "success": true,
-    "data": {
+      "success": true,
+      "data": {
         "_id": "6671292a4f597096151d6187",
         "username": "exampleuser3",
         "email": "mustkeem324@gmail.com",
@@ -122,8 +122,8 @@ The server should be running on `http://localhost:8000`.
         "createdAt": "2024-06-18T06:28:58.137Z",
         "updatedAt": "2024-06-18T06:28:58.137Z",
         "__v": 0
+      }
     }
-   }
     ```
 
 ### Code Structure
