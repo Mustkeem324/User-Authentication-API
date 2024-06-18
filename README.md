@@ -142,7 +142,7 @@ The server should be running on `http://localhost:8000`.
 
 ### Postman Demo Image
 - **Signup**
-![signup](singup.png)
+![signup](signup.png)
 
 - **Login**
 ![login](login.png)
