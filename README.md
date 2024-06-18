@@ -30,8 +30,8 @@ This project is a Node.js API for user authentication, including user registrati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/user-auth-api.git
-    cd user-auth-api
+    git clone https://github.com/Mustkeem324/User-Authentication-API.git
+    cd User-Authentication-API
     ```
 
 2. Install the dependencies:
